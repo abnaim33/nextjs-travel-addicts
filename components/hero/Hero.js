@@ -1,7 +1,6 @@
 import React from 'react'
 import { AiOutlineSearch } from 'react-icons/ai'
 
-// import Video from '../../assets/Nature.mp4'
 
 function Hero() {
     return (
